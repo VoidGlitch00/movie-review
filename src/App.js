@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Home from './Components/Home/Home';
 import Error from './Components/Error/Error';
@@ -8,6 +9,7 @@ import Dashboard from './Components/Dashboard/Dashboard';
 import Blogs from './Components/Blogs/Blogs';
 import About from './Components/About/About';
 import Nav from './Components/Nav/Nav';
+import ComposedChart from './Components/ComposedChart/ComposedChart';
 
 function App() {
   return (

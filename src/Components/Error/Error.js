@@ -8,4 +8,4 @@ const Error = () => {
     );
 };
 
-export default Error;<h3>404 Error Occured!!!</h3>
+export default Error;
