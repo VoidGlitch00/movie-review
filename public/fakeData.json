@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Tom Hanks",
+      "review": "Winner of 3 Academy Awards, including Best Picture and Best Adapted Screenplay, The Godfather is one of the most revered movies of all time and its contribution to cinema is remarkable. This movie will make you intrigued by its astounding depiction of the mafia and immerse you into its world from the very start while being impressed by its technical and narrative aspects.",
+      "ratings": 4.9
+    },
+    {
+      "id": 2,
+      "name": "Tom Hardy",
+      "review": "I wish to give 1000 stars. Epic movie! I have always loved movies on mafia and underworld. This movie is the rarest diamond amongst all. Extremely interesting, enticing, thought provoking. What else can be the benchmark for a cinema industry! Oh my God. This movie cams you, makes you feel joy, makes you think of sensible uber class  dealing with organized crime, way of handling situation like a game play, astounding personality representation, makes your heart pound faster, your pulse rate, sweat and relief. The way this movie presents the reason for existence of mafia world, the beginning of it, the balance, the fall everything just is so heart touching. Unbelievable. Thank you for giving us such wonderful movie experience. Its tremendous work done.",
+      "ratings": 4.9
+    },
+    {
+      "id": 3,
+      "name": "Dwayne Rock Johnson",
+      "review": "There are something's you will come across in life that they are so beautiful that 26 Alphabets feel limited to describe such things. They are beyond that small dimension of 26 Alphabets✨ You should not rate or review such things instead you should experience them yourself. One of the most beautiful movie and movie series humans have witnessed. The people who crafted and created this were really ahead of time, I mean if they were able to create such quality movies 1970 which the most talented are unable to do so in 2022.",
+      "ratings": 4.9
+    },
+    {
+      "id": 4,
+      "name": "Robert Downey Jr.",
+      "review": "The Godfather Trilogy is one of the greatest trilogies ever made, and yes even the third one. I strongly believe this is true because when you put this next to a modern film it pales in comparison, a lot to do with this opinion is the fact the films are not about italian mafia its about italian family, this adds a level of compassion to the films since you feel bad for the characters even though their bad people. And then again they make it so you empathise with these characters and their issues.",
+      "ratings": 4.9
+    },
+    {
+      "id": 5,
+      "name": "Brad Pitt",
+      "review": "It’s been 48 years since this masterpiece came and 7 years since I came across to witness the most beautiful, tragic and powerful story ever put on cinema.No matter how many times I’ve watched it , I always came across many new facts that I had overlooked the last time which makes this movie never loses its charm rather increases it’s quality. It always elevates my desire to watch cinema and learn things about life that I never thought I would from watching movie about the mafia. For me godfather is more than movie, an historic moment really shaped the quality of cinema and the influence over the people for generations to come.This is movie holds a special place in my heart. Thank u for existing ❤️.",
+      "ratings": 4.9
+    },
+    {
+      "id": 6,
+      "name": "Christopher Nolan",
+      "review": "Well, Godfather is one of the cinematic classics and it's really difficult to pinpoint one thing which would make it a big success that it is. So, i'll tell you what I like this movie which makes me watch it time and again. Firstly, the whole cast is amazing and they defined the 'Mafia' genre with their acting skills. It's not easy to play a role which you have no clue about and yet manage to make it your own. Secondly, Mario Puzo is a genius. He wrote a piece of history which can only be felt and not read about. You see, I didn't believe when people used to tell me things about Godfather but soon I realized that they all were right. Thirdly, I absolutely love the background score.",
+      "ratings": 4.9
+    }
+  ]
