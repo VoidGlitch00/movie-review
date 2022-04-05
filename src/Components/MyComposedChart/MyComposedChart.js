@@ -1,7 +1,7 @@
 import React from 'react';
-import { Area, Bar, CartesianGrid, Legend, Line, Tooltip, XAxis, YAxis } from 'recharts';
+import { Area, Bar, CartesianGrid, ComposedChart, Legend, Line, Tooltip, XAxis, YAxis } from 'recharts';
 
-const ComposedChart = () => {
+const MyComposedChart = () => {
     const data = [
         {
             "month": "Mar",
@@ -42,7 +42,7 @@ const ComposedChart = () => {
     ];
     return (
         <div>
-            <ComposedChart width={730} height={250} data={data}>
+            <ComposedChart width={800} height={400} data={data}>
                 <XAxis dataKey="month" />
                 <YAxis />
                 <Tooltip />
@@ -56,4 +56,4 @@ const ComposedChart = () => {
     );
 };
 
-export default ComposedChart;
+export default MyComposedChart;

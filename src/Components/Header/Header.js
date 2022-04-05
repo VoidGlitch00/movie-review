@@ -1,7 +1,7 @@
 import React from 'react';
 import CustomLink from '../CustomLink/CustomLink';
 
-const Nav = () => {
+const Header = () => {
     return (
         <div>
             <div className="container d-flex justify-content-between mt-3">
@@ -18,4 +18,4 @@ const Nav = () => {
     );
 };
 
-export default Nav;
+export default Header;

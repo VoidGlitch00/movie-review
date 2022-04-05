@@ -1,12 +1,12 @@
 import React from 'react';
-import AreaChart from '../AreaChart/AreaChart';
-import ComposedChart from '../ComposedChart/ComposedChart';
+import MyComposedChart from '../MyComposedChart/MyComposedChart';
+import MyLineChart from '../MyLineChart/MyLineChart';
 
 const Dashboard = () => {
     return (
-        <div>
-            <ComposedChart></ComposedChart>
-            <AreaChart></AreaChart>
+        <div className="container mt-5">
+            <MyLineChart className="mb-5"></MyLineChart>
+            <MyComposedChart></MyComposedChart>
         </div>
     );
 };
