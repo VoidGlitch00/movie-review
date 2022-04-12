@@ -2,4 +2,4 @@ In this website we tried to make it dynamic. Here we reviewed "The Godfather" mo
 
 For the reviews, we hired some of the iconic legendary actors to give review on "The Godfather"...kidding!
 
-Live Site link: {https://godfather-movie-reviews.netlify.app}
+Live Site link: { https://godfather-movie-reviews.netlify.app }
