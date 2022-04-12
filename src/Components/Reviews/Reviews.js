@@ -7,7 +7,7 @@ const Reviews = () => {
     console.log(reviewer);
     return (
         <div className="d-flex row">
-            <h5>this is reviews</h5>
+                
             {
                 reviewer.map(review =>
                     <Reviewer

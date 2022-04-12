@@ -6,7 +6,7 @@ const CustomHook = () => {
         fetch("fakeData.json")
         .then(res => res.json())
         .then(data => setReviewer(data))
-    }, []);
+    }, [reviewer]);
     return [reviewer, setReviewer];
 }
 

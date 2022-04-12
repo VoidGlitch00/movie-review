@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
@@ -9,6 +8,7 @@ import Dashboard from './Components/Dashboard/Dashboard';
 import Blogs from './Components/Blogs/Blogs';
 import About from './Components/About/About';
 import Header from './Components/Header/Header';
+
 
 function App() {
   return (
